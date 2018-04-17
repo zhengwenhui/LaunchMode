@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="start_activity_a">启动Activity A</string>
+    <string name="start_activity_b">启动Activity B</string>
+    <string name="start_activity_c">启动Activity C</string>
+    <string name="start_activity_d">启动Activity D</string>
+</resources>
